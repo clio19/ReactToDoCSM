@@ -5,7 +5,7 @@ CSM
 CLIENT SERVER MOBILE
 ``` 
 
-This a project from an Academy project in a simple MERN server stack with client and mobile React& RNative Apps
+This a project cronstructed in a simple MERN server stack, with client and mobile React& RNative Apps
 
 ###  Npm packages
 
