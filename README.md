@@ -40,16 +40,6 @@ thunk
 
 ```
 
-``` Objective
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-```
-
-
-
 ### Support
 
 You can find more details [here](https://support.typora.io/HTML/).
